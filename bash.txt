@@ -1,0 +1,19 @@
+      {
+        "colorScheme": "Dracula",
+        "cursorShape": "bar",
+        "experimental.retroTerminalEffect": false,
+        "font": {
+          "face": "JetBrains Mono",
+          "size": 12,
+          "weight": "normal"
+        },
+        "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
+        "hidden": false,
+        "intenseTextStyle": "bright",
+        "name": "Git Bash",
+        "opacity": 100,
+        "source": "Git",
+        "suppressApplicationTitle": false,
+        "tabTitle": null,
+        "useAcrylic": false
+      }
