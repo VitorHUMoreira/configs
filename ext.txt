@@ -1,0 +1,15 @@
+Auto Close Tag
+Auto Complete Tag
+Auto Rename Tag
+Code Runner
+Dracula Official
+Babel JavaScript
+EditorConfig
+GitLens
+HTML CSS Support
+JavaScript code snippets
+Material Icon Theme
+npm Intellisense
+Path Intellisense
+Prettier
+SVG Preview
